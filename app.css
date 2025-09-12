@@ -11,23 +11,31 @@ body,
   font-style: normal;
 }
 
+.blog1 {
+  background-color: blue;
+  width: 700px;
+  margin: 20px auto;
+  padding: 1px 10px 10px;
+  display: block;
+}
+
 
 body {
   background-color: rgb(255, 255, 255);
+  background-size: ;
   color: rgb(255, 0, 0);
+}
+#doc{
+  margin: ;
 }
 
 h1 {
   font-size: 100px;
   text-align: center;
   margin: 50px
-  
 }
 
 h2 {
   font-size: 50px;
   text-align: center;
-}
-.imgs{
-  width: 250
 }
