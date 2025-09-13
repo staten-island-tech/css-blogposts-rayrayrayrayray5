@@ -26,7 +26,8 @@ body {
   color: rgb(255, 0, 0);
 }
 #doc{
-  margin: ;
+  margin: 0 auto;
+  width: 50%;
 }
 
 h1 {
